@@ -2,6 +2,7 @@ import sys
 from enum import Enum
 
 
+
 class ChoiceEnum(Enum):
     ADD_POSITION = 1
     ADD_RECRUITING = 2
